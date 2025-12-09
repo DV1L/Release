@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: release
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/dv1l/release
+Author: DV1L
+Author-email: hdavidl0321@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
